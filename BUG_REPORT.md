@@ -1,7 +1,7 @@
 # Samsung 45W 充电协议切换死锁（IBUSUCP 断流）
 
 > 提交日期：2026-11-15
-> 联系方式：{PHONE}　{EMAIL}
+> 联系方式：QQ:1322939139 Wechat:Apigcat
 
 ## 摘要
 
