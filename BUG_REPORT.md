@@ -26,7 +26,7 @@ Framework 在 `pass_through` 置 0 后 **56 ms** 即下发快充请求，此时 
 1. 45W 充电器充电中，确认显示「超级快充 2.0」
 2. 执行 `settings put system pass_through 1`
 
-**结果**：充电反复断开重连，提示音持续，`current_now` 为负值，长时间无法恢复。
+**结果**：充电间歇性反复断开重连，提示音持续，`current_now` 为负值，长时间无法恢复。
 
 **场景 B — 切换快速充电开关**
 
